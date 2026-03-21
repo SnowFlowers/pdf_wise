@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "title": "KI-PDF-Assistent — Zusammenfassung, Chat & OCR",
+    "description": "PDF hochladen und lange Dokumente in Sekunden verstehen: KI-Zusammenfassung, Chat und OCR."
+  },
+  "nav": {
+    "brand": "KI-PDF-Assistent",
+    "features": "Funktionen",
+    "pricing": "Preise",
+    "myDocs": "Meine Dokumente",
+    "login": "Anmelden / Registrieren",
+    "comingSoon": "Demnächst"
+  },
+  "home": {
+    "mvp": "MVP",
+    "headline": "Lesen neu gedacht: KI erfasst lange PDFs in Sekunden.",
+    "subhead": "Verbessern Sie Ihr Leseerlebnis. Lassen Sie die KI PDFs verstehen.",
+    "sectionTitle": "All-in-one-KI-Dokumentenplattform",
+    "sectionSubtitle": "Kernfunktionen des MVP",
+    "moreTitle": "Weitere Funktionen"
+  },
+  "features": {
+    "summary": {
+      "title": "Smart Summary",
+      "desc": "Erzeugen Sie Kurzfassungen und heben Sie Kerngedanken und Schlussfolgerungen hervor."
+    },
+    "chat": {
+      "title": "PDF-Chat",
+      "desc": "Stellen Sie Fragen zum Dokument—Antworten mit präzisen Quellenangaben."
+    },
+    "ocr": {
+      "title": "OCR",
+      "desc": "Text aus Scans und Bildern extrahieren—durchsuchbar und dialogfähig."
+    },
+    "tools": {
+      "title": "PDF-Tools",
+      "desc": "Zusammenführen, teilen, konvertieren—Routineaufgaben an einem Ort."
+    },
+    "security": {
+      "title": "Sicherheit",
+      "desc": "Verschlüsselung bei Übertragung und Speicherung—Datenschutz zuerst."
+    }
+  },
+  "badge": { "p0": "P0", "p1": "P1" },
+  "footer": {
+    "copyright": "KI-PDF-Assistent © {year}",
+    "privacy": "Datenschutz",
+    "terms": "AGB",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "dropTitle": "PDF hierher ziehen",
+    "or": "oder",
+    "clickUpload": "klicken zum Hochladen",
+    "hints": "OCR für Scans · lange Dokumente · 90+ Sprachen",
+    "uploading": "Hochladen ({percent}%)…",
+    "parsing": "OCR / Textextraktion ({percent}%)…",
+    "done": "Arbeitsbereich wird geöffnet…"
+  },
+  "url": {
+    "label": "Dokument-URL",
+    "placeholder": "Link einfügen",
+    "confirm": "OK"
+  },
+  "workspace": {
+    "back": "← Zur Startseite",
+    "sidebarBrand": "PDF Guru",
+    "newFile": "Neue Datei",
+    "history": "VERLAUF",
+    "historyFile1": "1.qu_wei_kong_bi_lian_xi_186ye",
+    "historyFile2": "2.research_report.pdf",
+    "historyFile3": "3.meeting_notes.pdf",
+    "historyDate": "2024/3/21",
+    "unlockPro": "Weitere PDF-Tools freischalten",
+    "goPro": "Zu PRO",
+    "pdfPaneTitle": "KI-Zusammenfassung",
+    "pdfPlaceholder": "Der analysierte PDF-Inhalt erscheint hier.",
+    "pdfFileReady": "Ausgewählt: {name}",
+    "summaryTitle": "Zusammenfassung",
+    "summaryBullet1": "Das Dokument skizziert Kernkonzepte und Zielgruppe.",
+    "summaryBullet2": "Die Abschnitte sind logisch gegliedert für schnelles Finden.",
+    "summaryBullet3": "Das Fazit fasst umsetzbare Punkte und nächste Schritte zusammen.",
+    "suggestedQuestions": "Vorgeschlagene Fragen",
+    "question1": "Was ist der Hauptzweck des Dokuments?",
+    "question2": "Welche Schlussfolgerungen oder Empfehlungen gibt es?",
+    "question3": "Wie kann ich das in meiner Arbeit anwenden?",
+    "chatPlaceholder": "Nachricht hier eingeben",
+    "send": "Senden",
+    "uploadModal": {
+      "title": "Dateien hochladen",
+      "description": "Quelle wählen oder Dateien rechts in den Bereich ziehen.",
+      "fromDevice": "Vom Gerät hochladen",
+      "or": "ODER",
+      "fromDrive": "Von Google Drive",
+      "fromDropbox": "Von Dropbox",
+      "skip": "Überspringen",
+      "uploadFiles": "Dateien hochladen",
+      "sizeLimit": "Bis 100 MB",
+      "formats": "Formate: PDF, DOCX, PPTX, XLSX, PNG, JPEG",
+      "comingSoon": "Demnächst",
+      "closeDialog": "Schließen"
+    }
+  },
+  "locale": {
+    "label": "Sprache",
+    "zh": "简体中文",
+    "en": "English",
+    "ja": "日本語",
+    "ko": "한국어",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "pt": "Português"
+  }
+}

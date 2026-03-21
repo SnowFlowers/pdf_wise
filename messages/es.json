@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "title": "Asistente PDF con IA — Resúmenes, chat y OCR",
+    "description": "Sube un PDF y entiende documentos largos en segundos: resúmenes con IA, chat y OCR de escaneos."
+  },
+  "nav": {
+    "brand": "Asistente PDF con IA",
+    "features": "Funciones",
+    "pricing": "Precios",
+    "myDocs": "Mis documentos",
+    "login": "Iniciar sesión / Registrarse",
+    "comingSoon": "Próximamente"
+  },
+  "home": {
+    "mvp": "MVP",
+    "headline": "Reinventa la lectura: la IA entiende PDFs largos en segundos.",
+    "subhead": "Mejora tu experiencia de lectura. Deja que la IA entienda tus PDF.",
+    "sectionTitle": "Solución integral de documentos con IA",
+    "sectionSubtitle": "Funciones MVP esenciales",
+    "moreTitle": "Más capacidades"
+  },
+  "features": {
+    "summary": {
+      "title": "Resumen inteligente",
+      "desc": "Genera resúmenes y destaca ideas clave y conclusiones al instante."
+    },
+    "chat": {
+      "title": "Chat con el PDF",
+      "desc": "Pregunta al documento: respuestas inmediatas con referencias precisas."
+    },
+    "ocr": {
+      "title": "OCR",
+      "desc": "Extrae texto de escaneos e imágenes para buscar y conversar con el contenido."
+    },
+    "tools": {
+      "title": "Utilidades PDF",
+      "desc": "Une, divide y convierte: tareas cotidianas en un solo lugar."
+    },
+    "security": {
+      "title": "Seguridad",
+      "desc": "Cifrado en tránsito y en reposo: privacidad ante todo."
+    }
+  },
+  "badge": { "p0": "P0", "p1": "P1" },
+  "footer": {
+    "copyright": "Asistente PDF con IA © {year}",
+    "privacy": "Privacidad",
+    "terms": "Términos",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "dropTitle": "Arrastra un PDF aquí",
+    "or": "o",
+    "clickUpload": "haz clic para subir",
+    "hints": "OCR para escaneos · documentos largos · más de 90 idiomas",
+    "uploading": "Subiendo ({percent}%)…",
+    "parsing": "OCR / extracción de texto ({percent}%)…",
+    "done": "Abriendo el espacio de trabajo…"
+  },
+  "url": {
+    "label": "URL del documento",
+    "placeholder": "Pega un enlace",
+    "confirm": "Confirmar"
+  },
+  "workspace": {
+    "back": "← Volver al inicio",
+    "sidebarBrand": "PDF Guru",
+    "newFile": "Archivo nuevo",
+    "history": "HISTORIAL",
+    "historyFile1": "1.qu_wei_kong_bi_lian_xi_186ye",
+    "historyFile2": "2.research_report.pdf",
+    "historyFile3": "3.meeting_notes.pdf",
+    "historyDate": "2024/3/21",
+    "unlockPro": "Desbloquea más herramientas PDF",
+    "goPro": "Ir a PRO",
+    "pdfPaneTitle": "Resumidor IA",
+    "pdfPlaceholder": "El contenido del PDF analizado aparecerá aquí.",
+    "pdfFileReady": "Seleccionado: {name}",
+    "summaryTitle": "Resumen",
+    "summaryBullet1": "El documento describe conceptos clave y el público objetivo.",
+    "summaryBullet2": "Las secciones siguen un orden lógico para localizar rápido.",
+    "summaryBullet3": "La conclusión resume puntos accionables y próximos pasos.",
+    "suggestedQuestions": "Preguntas sugeridas",
+    "question1": "¿Cuál es el propósito principal del documento?",
+    "question2": "¿Cuáles son las conclusiones o recomendaciones clave?",
+    "question3": "¿Cómo aplico esto a mi trabajo?",
+    "chatPlaceholder": "Escribe tu mensaje aquí",
+    "send": "Enviar",
+    "uploadModal": {
+      "title": "Sube tus archivos",
+      "description": "Elige un origen o arrastra archivos al área de la derecha.",
+      "fromDevice": "Subir desde el dispositivo",
+      "or": "O",
+      "fromDrive": "Subir desde Google Drive",
+      "fromDropbox": "Subir desde Dropbox",
+      "skip": "Omitir por ahora",
+      "uploadFiles": "Subir archivos",
+      "sizeLimit": "Hasta 100 MB",
+      "formats": "Formatos: PDF, DOCX, PPTX, XLSX, PNG, JPEG",
+      "comingSoon": "Próximamente",
+      "closeDialog": "Cerrar"
+    }
+  },
+  "locale": {
+    "label": "Idioma",
+    "zh": "简体中文",
+    "en": "English",
+    "ja": "日本語",
+    "ko": "한국어",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "pt": "Português"
+  }
+}

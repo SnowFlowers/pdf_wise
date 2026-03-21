@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "title": "Assistant PDF IA — Résumés, chat et OCR",
+    "description": "Téléchargez un PDF et comprenez les longs documents en quelques secondes : résumés IA, chat et OCR."
+  },
+  "nav": {
+    "brand": "Assistant PDF IA",
+    "features": "Fonctionnalités",
+    "pricing": "Tarifs",
+    "myDocs": "Mes documents",
+    "login": "Connexion / Inscription",
+    "comingSoon": "Bientôt"
+  },
+  "home": {
+    "mvp": "MVP",
+    "headline": "Repensez la lecture : l’IA comprend les longs PDF en quelques secondes.",
+    "subhead": "Transformez votre façon de lire. Laissez l’IA vous aider à comprendre vos PDF.",
+    "sectionTitle": "Espace documentaire IA tout-en-un",
+    "sectionSubtitle": "Fonctions MVP essentielles",
+    "moreTitle": "Autres capacités"
+  },
+  "features": {
+    "summary": {
+      "title": "Résumé intelligent",
+      "desc": "Générez des résumés et mettez en avant les idées clés et conclusions."
+    },
+    "chat": {
+      "title": "Chat PDF",
+      "desc": "Posez des questions : réponses instantanées avec références précises."
+    },
+    "ocr": {
+      "title": "OCR",
+      "desc": "Extrayez le texte des scans et images pour rendre le contenu exploitable."
+    },
+    "tools": {
+      "title": "Outils PDF",
+      "desc": "Fusion, division, conversion : les tâches courantes au même endroit."
+    },
+    "security": {
+      "title": "Sécurité",
+      "desc": "Chiffrement en transit et au repos : la confidentialité d’abord."
+    }
+  },
+  "badge": { "p0": "P0", "p1": "P1" },
+  "footer": {
+    "copyright": "Assistant PDF IA © {year}",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "contact": "Contact"
+  },
+  "hero": {
+    "dropTitle": "Glissez un PDF ici",
+    "or": "ou",
+    "clickUpload": "cliquez pour téléverser",
+    "hints": "OCR pour scans · longs documents · plus de 90 langues",
+    "uploading": "Téléversement ({percent}%)…",
+    "parsing": "OCR / extraction de texte ({percent}%)…",
+    "done": "Ouverture de l’espace de travail…"
+  },
+  "url": {
+    "label": "URL du document",
+    "placeholder": "Collez un lien",
+    "confirm": "Valider"
+  },
+  "workspace": {
+    "back": "← Retour à l’accueil",
+    "sidebarBrand": "PDF Guru",
+    "newFile": "Nouveau fichier",
+    "history": "HISTORIQUE",
+    "historyFile1": "1.qu_wei_kong_bi_lian_xi_186ye",
+    "historyFile2": "2.research_report.pdf",
+    "historyFile3": "3.meeting_notes.pdf",
+    "historyDate": "2024/3/21",
+    "unlockPro": "Débloquez plus d’outils PDF",
+    "goPro": "Passer à PRO",
+    "pdfPaneTitle": "Synthèse IA",
+    "pdfPlaceholder": "Le PDF analysé s’affichera ici.",
+    "pdfFileReady": "Sélectionné : {name}",
+    "summaryTitle": "Résumé",
+    "summaryBullet1": "Le document présente les concepts clés et le public visé.",
+    "summaryBullet2": "Les sections suivent un ordre logique pour naviguer vite.",
+    "summaryBullet3": "La conclusion met en avant des actions et la suite.",
+    "suggestedQuestions": "Questions suggérées",
+    "question1": "Quel est l’objectif principal du document ?",
+    "question2": "Quelles sont les conclusions ou recommandations clés ?",
+    "question3": "Comment appliquer cela à mon travail ?",
+    "chatPlaceholder": "Écrivez votre message ici",
+    "send": "Envoyer",
+    "uploadModal": {
+      "title": "Téléversez vos fichiers",
+      "description": "Choisissez une source ou glissez des fichiers dans la zone à droite.",
+      "fromDevice": "Téléverser depuis l’appareil",
+      "or": "OU",
+      "fromDrive": "Téléverser depuis Google Drive",
+      "fromDropbox": "Téléverser depuis Dropbox",
+      "skip": "Passer pour l’instant",
+      "uploadFiles": "Téléverser des fichiers",
+      "sizeLimit": "Jusqu’à 100 Mo",
+      "formats": "Formats : PDF, DOCX, PPTX, XLSX, PNG, JPEG",
+      "comingSoon": "Bientôt",
+      "closeDialog": "Fermer"
+    }
+  },
+  "locale": {
+    "label": "Langue",
+    "zh": "简体中文",
+    "en": "English",
+    "ja": "日本語",
+    "ko": "한국어",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "pt": "Português"
+  }
+}

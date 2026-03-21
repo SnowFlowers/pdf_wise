@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "title": "AI PDF アシスタント — 要約・チャット・OCR",
+    "description": "PDFをアップロードし、長文を数秒で理解：AI要約、対話、スキャンOCR。"
+  },
+  "nav": {
+    "brand": "AI PDF アシスタント",
+    "features": "機能",
+    "pricing": "料金",
+    "myDocs": "マイドキュメント",
+    "login": "ログイン / 新規登録",
+    "comingSoon": "近日公開"
+  },
+  "home": {
+    "mvp": "MVP",
+    "headline": "読み方を変える：AIが長文PDFを数秒で把握。",
+    "subhead": "読書体験を刷新。AIがPDFを読み解きます。",
+    "sectionTitle": "オールインワンのAIドキュメント基盤",
+    "sectionSubtitle": "MVPの中核機能",
+    "moreTitle": "その他の機能"
+  },
+  "features": {
+    "summary": {
+      "title": "スマート要約",
+      "desc": "要点と結論を抽出し、文書全体を素早く把握。"
+    },
+    "chat": {
+      "title": "PDFチャット",
+      "desc": "文書について質問し、出典付きで即座に回答。"
+    },
+    "ocr": {
+      "title": "OCR",
+      "desc": "スキャンや画像から文字を抽出し、検索・対話可能に。"
+    },
+    "tools": {
+      "title": "PDFツール",
+      "desc": "結合・分割・変換など日常の作業を一か所で。"
+    },
+    "security": {
+      "title": "セキュリティ",
+      "desc": "通信と保存の暗号化。機密文書も安心。"
+    }
+  },
+  "badge": { "p0": "P0", "p1": "P1" },
+  "footer": {
+    "copyright": "AI PDF アシスタント © {year}",
+    "privacy": "プライバシー",
+    "terms": "利用規約",
+    "contact": "お問い合わせ"
+  },
+  "hero": {
+    "dropTitle": "PDFをここにドラッグ",
+    "or": "または",
+    "clickUpload": "クリックしてアップロード",
+    "hints": "スキャンOCR・長文・90以上の言語",
+    "uploading": "アップロード中 ({percent}%)…",
+    "parsing": "OCR / テキスト抽出 ({percent}%)…",
+    "done": "ワークスペースを開いています…"
+  },
+  "url": {
+    "label": "ドキュメントURL",
+    "placeholder": "リンクを貼り付け",
+    "confirm": "確定"
+  },
+  "workspace": {
+    "back": "← ホームに戻る",
+    "sidebarBrand": "PDF Guru",
+    "newFile": "新規ファイル",
+    "history": "履歴",
+    "historyFile1": "1.qu_wei_kong_bi_lian_xi_186ye",
+    "historyFile2": "2.research_report.pdf",
+    "historyFile3": "3.meeting_notes.pdf",
+    "historyDate": "2024/3/21",
+    "unlockPro": "さらにPDFツールを解放",
+    "goPro": "PROへ",
+    "pdfPaneTitle": "AIサマリー",
+    "pdfPlaceholder": "解析済みPDFはここに表示されます。",
+    "pdfFileReady": "選択済み：{name}",
+    "summaryTitle": "要約",
+    "summaryBullet1": "本書は主要な概念と想定読者を概説します。",
+    "summaryBullet2": "章立ては論理的で素早く参照できます。",
+    "summaryBullet3": "結論では実行可能な要点と次のステップをまとめます。",
+    "suggestedQuestions": "おすすめの質問",
+    "question1": "この文書の主な目的は何ですか？",
+    "question2": "重要な結論や推奨事項は何ですか？",
+    "question3": "業務にどう活かせますか？",
+    "chatPlaceholder": "メッセージを入力…",
+    "send": "送信",
+    "uploadModal": {
+      "title": "ファイルをアップロード",
+      "description": "ソースを選ぶか、右側のエリアにファイルをドラッグしてください。",
+      "fromDevice": "デバイスからアップロード",
+      "or": "または",
+      "fromDrive": "Google ドライブから",
+      "fromDropbox": "Dropbox から",
+      "skip": "スキップ",
+      "uploadFiles": "ファイルをアップロード",
+      "sizeLimit": "最大 100 MB",
+      "formats": "対応形式：PDF、DOCX、PPTX、XLSX、PNG、JPEG",
+      "comingSoon": "近日公開",
+      "closeDialog": "閉じる"
+    }
+  },
+  "locale": {
+    "label": "言語",
+    "zh": "简体中文",
+    "en": "English",
+    "ja": "日本語",
+    "ko": "한국어",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "pt": "Português"
+  }
+}

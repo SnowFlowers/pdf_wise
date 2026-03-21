@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "title": "AI PDF 助手 — 智能总结、对话与 OCR",
+    "description": "上传 PDF，用 AI 秒级读懂长文档：智能总结、交互对话、扫描件 OCR。"
+  },
+  "nav": {
+    "brand": "AI PDF 助手",
+    "features": "核心功能",
+    "pricing": "定价",
+    "myDocs": "我的文档",
+    "login": "登录 / 注册",
+    "comingSoon": "即将上线"
+  },
+  "home": {
+    "mvp": "MVP",
+    "headline": "重塑阅读：AI 帮您在秒级读懂长篇 PDF。",
+    "subhead": "重塑您的阅读体验。让 AI 帮您读懂 PDF。",
+    "sectionTitle": "一站式 AI 文档解决方案",
+    "sectionSubtitle": "基础功能 MVP",
+    "moreTitle": "更多能力"
+  },
+  "features": {
+    "summary": {
+      "title": "智能总结",
+      "desc": "一键生成核心摘要，提取关键观点与结论，快速把握全文。"
+    },
+    "chat": {
+      "title": "PDF 交互对话",
+      "desc": "针对文档提问，AI 实时解答并支持精准溯源到原文位置。"
+    },
+    "ocr": {
+      "title": "OCR 文字识别",
+      "desc": "识别扫描件与图片中的文字，让「死文档」变成可检索、可对话的活内容。"
+    },
+    "tools": {
+      "title": "PDF 基础工具",
+      "desc": "合并、拆分、格式转换等常用操作，一站式完成文档整理。"
+    },
+    "security": {
+      "title": "文档安全管理",
+      "desc": "传输与存储加密，隐私优先，让您安心处理敏感资料。"
+    }
+  },
+  "badge": { "p0": "P0", "p1": "P1" },
+  "footer": {
+    "copyright": "AI PDF 助手 © {year}",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "contact": "联系我们"
+  },
+  "hero": {
+    "dropTitle": "拖拽 PDF 文件到这里",
+    "or": "或",
+    "clickUpload": "点击上传",
+    "hints": "支持 OCR 扫描件 · 千页长文档 · 90+ 语言",
+    "uploading": "正在上传 ({percent}%)…",
+    "parsing": "正在进行 OCR / 文本解析 ({percent}%)…",
+    "done": "即将进入工作台…"
+  },
+  "url": {
+    "label": "文档链接",
+    "placeholder": "或粘贴文档链接 URL",
+    "confirm": "确认"
+  },
+  "workspace": {
+    "back": "← 返回首页",
+    "sidebarBrand": "PDF 助手",
+    "newFile": "新建文件",
+    "history": "历史记录",
+    "historyFile1": "1.qu_wei_kong_bi_lian_xi_186ye",
+    "historyFile2": "2.research_report.pdf",
+    "historyFile3": "3.meeting_notes.pdf",
+    "historyDate": "2024/3/21",
+    "unlockPro": "解锁更多 PDF 工具",
+    "goPro": "升级 PRO",
+    "pdfPaneTitle": "AI 总结",
+    "pdfPlaceholder": "解析后的 PDF 页面将在此处显示。",
+    "pdfFileReady": "已选择：{name}",
+    "summaryTitle": "摘要",
+    "summaryBullet1": "本文档概述了核心概念与目标读者。",
+    "summaryBullet2": "主要章节按逻辑顺序展开，便于快速定位。",
+    "summaryBullet3": "结论部分总结了可执行要点与后续方向。",
+    "suggestedQuestions": "推荐问题",
+    "question1": "文档的主要目的是什么？",
+    "question2": "有哪些关键结论或建议？",
+    "question3": "如何将这些内容应用到实际工作？",
+    "chatPlaceholder": "在此输入消息…",
+    "send": "发送",
+    "uploadModal": {
+      "title": "上传您的文件",
+      "description": "选择来源，或将文件拖拽到右侧区域。",
+      "fromDevice": "从本地上传",
+      "or": "或",
+      "fromDrive": "从 Google Drive 上传",
+      "fromDropbox": "从 Dropbox 上传",
+      "skip": "暂时跳过",
+      "uploadFiles": "上传文件",
+      "sizeLimit": "单文件最大 100 MB",
+      "formats": "支持格式：PDF、DOCX、PPTX、XLSX、PNG、JPEG",
+      "comingSoon": "即将上线",
+      "closeDialog": "关闭"
+    }
+  },
+  "locale": {
+    "label": "语言",
+    "zh": "简体中文",
+    "en": "English",
+    "ja": "日本語",
+    "ko": "한국어",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "pt": "Português"
+  }
+}

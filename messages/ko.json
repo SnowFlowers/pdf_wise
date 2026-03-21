@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "title": "AI PDF 도우미 — 요약, 대화, OCR",
+    "description": "PDF를 업로드하고 긴 문서를 몇 초 만에 이해하세요: AI 요약, 대화, 스캔 OCR."
+  },
+  "nav": {
+    "brand": "AI PDF 도우미",
+    "features": "기능",
+    "pricing": "가격",
+    "myDocs": "내 문서",
+    "login": "로그인 / 가입",
+    "comingSoon": "곧 제공"
+  },
+  "home": {
+    "mvp": "MVP",
+    "headline": "읽기를 바꿉니다: AI가 긴 PDF를 몇 초 만에 파악합니다.",
+    "subhead": "읽기 경험을 새롭게. AI가 PDF를 이해하도록 돕습니다.",
+    "sectionTitle": "올인원 AI 문서 워크스페이스",
+    "sectionSubtitle": "핵심 MVP 기능",
+    "moreTitle": "추가 기능"
+  },
+  "features": {
+    "summary": {
+      "title": "스마트 요약",
+      "desc": "핵심 요약과 결론을 추출해 문서 전체를 빠르게 파악합니다."
+    },
+    "chat": {
+      "title": "PDF 대화",
+      "desc": "문서에 질문하면 출처와 함께 즉시 답합니다."
+    },
+    "ocr": {
+      "title": "OCR",
+      "desc": "스캔·이미지에서 텍스트를 추출해 검색·대화가 가능해집니다."
+    },
+    "tools": {
+      "title": "PDF 도구",
+      "desc": "병합·분할·변환 등 일상 작업을 한곳에서 처리합니다."
+    },
+    "security": {
+      "title": "보안",
+      "desc": "전송·저장 암호화로 민감한 파일도 안심하고 사용하세요."
+    }
+  },
+  "badge": { "p0": "P0", "p1": "P1" },
+  "footer": {
+    "copyright": "AI PDF 도우미 © {year}",
+    "privacy": "개인정보",
+    "terms": "약관",
+    "contact": "문의"
+  },
+  "hero": {
+    "dropTitle": "PDF를 여기로 끌어다 놓기",
+    "or": "또는",
+    "clickUpload": "클릭하여 업로드",
+    "hints": "스캔 OCR · 긴 문서 · 90개 이상 언어",
+    "uploading": "업로드 중 ({percent}%)…",
+    "parsing": "OCR / 텍스트 추출 ({percent}%)…",
+    "done": "작업 공간으로 이동 중…"
+  },
+  "url": {
+    "label": "문서 URL",
+    "placeholder": "문서 링크 붙여넣기",
+    "confirm": "확인"
+  },
+  "workspace": {
+    "back": "← 홈으로",
+    "sidebarBrand": "PDF Guru",
+    "newFile": "새 파일",
+    "history": "기록",
+    "historyFile1": "1.qu_wei_kong_bi_lian_xi_186ye",
+    "historyFile2": "2.research_report.pdf",
+    "historyFile3": "3.meeting_notes.pdf",
+    "historyDate": "2024/3/21",
+    "unlockPro": "더 많은 PDF 도구 잠금 해제",
+    "goPro": "PRO로 이동",
+    "pdfPaneTitle": "AI 요약",
+    "pdfPlaceholder": "분석된 PDF가 여기에 표시됩니다.",
+    "pdfFileReady": "선택됨: {name}",
+    "summaryTitle": "요약",
+    "summaryBullet1": "문서는 핵심 개념과 대상 독자를 설명합니다.",
+    "summaryBullet2": "주요 장은 논리적 순서로 빠르게 찾을 수 있습니다.",
+    "summaryBullet3": "결론에서는 실행 가능한 요점과 다음 단계를 정리합니다.",
+    "suggestedQuestions": "추천 질문",
+    "question1": "문서의 주요 목적은 무엇인가요?",
+    "question2": "핵심 결론이나 권장 사항은 무엇인가요?",
+    "question3": "업무에 어떻게 적용할 수 있나요?",
+    "chatPlaceholder": "메시지를 입력하세요…",
+    "send": "보내기",
+    "uploadModal": {
+      "title": "파일 업로드",
+      "description": "출처를 선택하거나 오른쪽 영역으로 파일을 끌어다 놓으세요.",
+      "fromDevice": "내 기기에서 업로드",
+      "or": "또는",
+      "fromDrive": "Google Drive에서",
+      "fromDropbox": "Dropbox에서",
+      "skip": "건너뛰기",
+      "uploadFiles": "파일 업로드",
+      "sizeLimit": "최대 100 MB",
+      "formats": "지원 형식: PDF, DOCX, PPTX, XLSX, PNG, JPEG",
+      "comingSoon": "곧 제공",
+      "closeDialog": "닫기"
+    }
+  },
+  "locale": {
+    "label": "언어",
+    "zh": "简体中文",
+    "en": "English",
+    "ja": "日本語",
+    "ko": "한국어",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "pt": "Português"
+  }
+}

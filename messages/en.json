@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "title": "AI PDF Assistant — Summaries, Chat & OCR",
+    "description": "Upload a PDF and understand long documents in seconds: AI summaries, chat, and scanned OCR."
+  },
+  "nav": {
+    "brand": "AI PDF Assistant",
+    "features": "Features",
+    "pricing": "Pricing",
+    "myDocs": "My documents",
+    "login": "Log in / Sign up",
+    "comingSoon": "Coming soon"
+  },
+  "home": {
+    "mvp": "MVP",
+    "headline": "Rethink reading: AI helps you grasp long PDFs in seconds.",
+    "subhead": "Transform how you read. Let AI help you understand PDFs.",
+    "sectionTitle": "All-in-one AI document workspace",
+    "sectionSubtitle": "Core MVP features",
+    "moreTitle": "More capabilities"
+  },
+  "features": {
+    "summary": {
+      "title": "Smart summary",
+      "desc": "Generate concise summaries and surface key takeaways and conclusions at a glance."
+    },
+    "chat": {
+      "title": "PDF chat",
+      "desc": "Ask questions about your document—get instant answers with precise source references."
+    },
+    "ocr": {
+      "title": "OCR",
+      "desc": "Extract text from scans and images so static PDFs become searchable, conversational content."
+    },
+    "tools": {
+      "title": "PDF utilities",
+      "desc": "Merge, split, convert—handle everyday document tasks in one place."
+    },
+    "security": {
+      "title": "Security",
+      "desc": "Encryption in transit and at rest—privacy first for sensitive files."
+    }
+  },
+  "badge": { "p0": "P0", "p1": "P1" },
+  "footer": {
+    "copyright": "AI PDF Assistant © {year}",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "contact": "Contact"
+  },
+  "hero": {
+    "dropTitle": "Drag a PDF here",
+    "or": "or",
+    "clickUpload": "click to upload",
+    "hints": "OCR for scans · long documents · 90+ languages",
+    "uploading": "Uploading ({percent}%)…",
+    "parsing": "OCR / text extraction ({percent}%)…",
+    "done": "Opening workspace…"
+  },
+  "url": {
+    "label": "Document URL",
+    "placeholder": "Paste a document link",
+    "confirm": "Go"
+  },
+  "workspace": {
+    "back": "← Back to home",
+    "sidebarBrand": "PDF Guru",
+    "newFile": "New file",
+    "history": "HISTORY",
+    "historyFile1": "1.qu_wei_kong_bi_lian_xi_186ye",
+    "historyFile2": "2.research_report.pdf",
+    "historyFile3": "3.meeting_notes.pdf",
+    "historyDate": "2024/3/21",
+    "unlockPro": "Unlock more PDF tools",
+    "goPro": "Go PRO",
+    "pdfPaneTitle": "AI Summarizer",
+    "pdfPlaceholder": "Parsed PDF content will appear here.",
+    "pdfFileReady": "Selected: {name}",
+    "summaryTitle": "Summary",
+    "summaryBullet1": "This document outlines the core concepts and intended audience.",
+    "summaryBullet2": "Major sections follow a logical order for quick navigation.",
+    "summaryBullet3": "The conclusion highlights actionable takeaways and next steps.",
+    "suggestedQuestions": "Suggested questions",
+    "question1": "What is the main purpose of the document?",
+    "question2": "What are the key conclusions or recommendations?",
+    "question3": "How can I apply this to my work?",
+    "chatPlaceholder": "Write your message here",
+    "send": "Send",
+    "uploadModal": {
+      "title": "Upload your files",
+      "description": "Choose a source or drag files into the area on the right.",
+      "fromDevice": "Upload from device",
+      "or": "OR",
+      "fromDrive": "Upload from Google Drive",
+      "fromDropbox": "Upload from Dropbox",
+      "skip": "Skip for now",
+      "uploadFiles": "Upload files",
+      "sizeLimit": "Size up to 100 MB",
+      "formats": "Supported formats: PDF, DOCX, PPTX, XLSX, PNG, JPEG",
+      "comingSoon": "Coming soon",
+      "closeDialog": "Close"
+    }
+  },
+  "locale": {
+    "label": "Language",
+    "zh": "简体中文",
+    "en": "English",
+    "ja": "日本語",
+    "ko": "한국어",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "pt": "Português"
+  }
+}
